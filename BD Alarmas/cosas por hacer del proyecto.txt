@@ -1,0 +1,29 @@
+
+-comprobacion mail
+
+-ayuda en n_serie agregar guion de n de area 
+
+- para monitoreo puede o no 
+- back up si o no
+ busqueda seleccionar por donde buscar.
+-fecha ultimo preventivo ,no nuevo cliente(
+-registro nuevo cliente agregar
+-fecha vari
+
+-logs guarde en un txt   /////facu
+-agregar caracterisica tel fijo******
+-eliminar cliente , alarma, casa.****
+-ver de agregar una tabla preventivo paraguardar notas
+-VER LO DE BACKUP
+la tabla va a tener  dias los 4 primeros en verde lo siguientes 4 amarillo y los demas en rojo*****
+-pensar si es ano bisiesto con la cantidad de meses
+-guardar la clave de email en bd
+-fijarme que todas las letras tengan tamano 16
+-revisar los nombres y apellidos solos letras
+
+agregar confirmacion de de cambio ingresar fecha bateria nueva
+modificar alarma 
+registro cliente falla
+
+hacer herencia entre clientes y usuarios
+modificar casa a domicilio
